@@ -1,4 +1,4 @@
-# **FreelanceHuB**
+# **FreelanceHub**
 Welcome to the Freelance Platform, a web application designed to connect clients with freelancers efficiently. Clients can post job listings, search for freelancers based on skills and experience, and manage their projects, while freelancers can showcase their profiles, apply for jobs, and receive payments securely.
 
 ## **Overview**
